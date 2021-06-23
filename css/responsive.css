@@ -1,0 +1,198 @@
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {}
+
+@media only screen and (max-width: 767px) {
+   
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px){
+
+}
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+	.mainmenu .navbar-brand img{
+		margin-left: 0px;
+}
+
+.navbar-toggler span{
+	color: #fff;
+	margin-left: 100px;
+}
+
+.mainmenu .navbar-nav{
+	padding-left: 0px;
+}
+
+.mainmenu .navbar-nav .nav-item{
+	display: block;
+}
+.banner_area .content{	
+	padding: 20px 20px;
+}
+.banner_area .content h1{
+	padding-top: 100px;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 50px;
+	color: #fff;
+	font-size: 30px;
+	font-weight: 600;
+	text-transform: uppercase;
+	font-family: 'yesevaOne';
+	position: relative;	
+}
+.banner_area .content h1::after{
+	display: none;
+}
+.banner_area .content p{
+	font-size: 20px;
+	padding-top: 40px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+}
+#expertise .title_text{
+	text-align: center;
+}
+#expertise .title_text h2{
+	padding-top: 50px;
+	font-size: 30px;
+	font-weight: bold;
+	font-family: 'Montserrat', sans-serif;
+	padding-bottom: 30px;
+}
+#expertise .title_text p{
+	/*text-align: center;*/
+	text-align: justify;
+	padding-right: 20px;
+}
+#expertise .expert_item{
+	padding-bottom: 0px;
+	/*display: flex;*/
+	
+}
+#expertise .icon{
+	color: #cccccc;
+	text-align: center;
+}
+#expertise .expert_text_item h4{
+	font-size: 16px;
+	font-weight: 500;
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+	text-align: center;
+}
+#expertise .expert_text_item p{
+	font-size: 14px;
+	font-family: 'Noto Sans', sans-serif;
+	color: #aaaaaa;
+	text-align: center justify;
+	padding-right: 20px;
+}
+#expertise .expert_img{
+	margin-top: 30px;
+	padding-right: 20px;
+	height: 100%;
+	width: 100%;
+}
+#portfolio .port_title h2{
+	font-size: 28px;
+	padding-right: 10px;
+	
+}
+#portfolio .port_items p{
+	padding-right: 20px;
+}
+#portfolio .port_icon{
+	text-align: center;
+}
+#portfolio .port_text_item h4{
+	text-align: center;
+}
+#portfolio .port_text_item p{
+	padding-right: 20px;
+	text-align: center justify;
+}
+#portfolio .image img{
+	padding-right: 10px;
+	width: 100%;
+	height: 100%;
+}
+#portfolio_templet img{
+	height: 100%;
+	width: 100%;
+	padding: 10px;
+}
+#about .a1{
+	text-align: justify;
+}
+#about .a1 h4{
+	padding-left: 10px;
+}
+
+#about .a1 p{
+	padding-left: 10px;
+}
+#about .a2{
+	text-align: justify;
+}
+#about .a2 h4{
+	padding-right: 10px;
+}
+#about .a2 p{
+	padding-right: 10px;
+}
+#about .a3{
+	text-align: justify;
+}
+#about .a3 h4{
+	padding-left: 10px;
+}
+#about .a3 p{
+	padding-left: 10px;
+}
+#about .a4{
+	text-align: justify;
+}
+#about .a4 h4{
+	padding-right: 10px;
+}
+#about .a4 p{
+	padding-right: 10px;
+}
+#about .ab_image img{
+	margin-bottom: 20px;
+}
+#about .ab_image::after{
+	display: none;
+}
+.pl50{
+	padding: 0px 10px;
+}
+.para{
+	padding: 30px 20px;
+	text-align: center;
+}
+.plr{
+	padding: 0px 0px;
+}
+#contact .title{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+#contact .title h2{
+	font-size: 30px;
+	padding-bottom: 20px;
+}
+.dream_social table tr td{
+	padding-left: 10px;
+	padding-bottom: 20px;
+}
+.foot{
+	text-align: center;
+	padding: 10px 10px;
+}
+}
